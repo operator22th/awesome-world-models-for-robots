@@ -14,6 +14,15 @@
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
 ## papers
 - Daydreamer: World models for physical robot learning
-- CoRL 2023 (Oral), Finetuning Offline World Models in the Real World [Website](https://www.yunhaifeng.com/FOWM/) [Paper](https://arxiv.org/abs/2310.16029) Offline pretraining and online finetuning of world models. Robot arm tasks.
-- arxic 2025, 01, Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [Paper](https://arxiv.org/abs/2501.10100v1). MBPO sim2real using world models. Quadruped locomotion tasks.
- 
+- CoRL 2023 (Oral), Finetuning Offline World Models in the Real World [Website](https://www.yunhaifeng.com/FOWM/) [Paper](https://arxiv.org/abs/2310.16029) Offline pretraining and online finetuning of world models. Robot arm manipulation tasks.
+- arxiv 2025, 01, Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [Paper](https://arxiv.org/abs/2501.10100v1). MBPO sim2real using world models. Quadruped locomotion tasks.
+- 	RSS 2023, Structured World Models from Human Videos. [Paper](https://arxiv.org/abs/2308.10901). Robot arm manipulation tasks.
+## related: Robotics & vision-based RL
+- CoRL 2022 (Oral), Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. [Paper](https://arxiv.org/abs/2210.10044).
+- CoRL 2022 (Oral), Legged Locomotion in Challenging Terrains using Egocentric Vision. [Paper](https://arxiv.org/pdf/2211.07638).
+- CVPR 2023, Affordances from Human Videos as a Versatile Representation for Robotics. [Paper](https://arxiv.org/abs/2304.08488).
+- ICML 2023 (Oral), Efficient RL via Disentangled Environment and Agent Representations. [Website](https://sear-rl.github.io/).
+- CoRL 2022, VideoDex: Learning Dexterity from Internet Videos. [Website](https://video-dex.github.io/).
+- CVPR 2022, Coupling Vision and Proprioception for Navigation of Legged Robots. [Paper](https://arxiv.org/abs/2112.02094).
+## related: World Models
+- arxiv 2024, 05, Hierarchical World Models as Visual Whole-Body Humanoid Controllers. [Website](https://www.nicklashansen.com/rlpuppeteer/).
