@@ -6,7 +6,8 @@
 ## dataset
 - AgiBot World [Website](https://github.com/OpenDriveLab/AgiBot-World). 1 million+ trajectories from 100 robots.
 - LeRobotDataset [Website](https://github.com/huggingface/lerobot). A bunch of models, datasets, and tools for real-world robotics in PyTorch.
-- 1xgpt
+- 1xgpt [Website](https://github.com/1x-technologies/1xgpt).
+- OXE [Paper](https://arxiv.org/abs/2310.08864).
 ## models
 - Cosmos [Website](https://developer.nvidia.com/cosmos). Autoregressive Video2World/Text2World foundation models.
 ## toolbox
@@ -32,3 +33,5 @@
 ## related: Generative models for Decision-Making
 - arxiv 2025, 01, Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. [Paper](https://arxiv.org/abs/2501.09685).
 - ICML 2024, 3D-VLA: A 3DVision-Language-Action Generative World Model. [Paper](https://arxiv.org/pdf/2403.09631).
+## related: RL in the Real World
+- arxiv 2021, 02, NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning. [Paper](https://arxiv.org/abs/2102.00714). [Website](http://polixir.ai/research/neorl).
