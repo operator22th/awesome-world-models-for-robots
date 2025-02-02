@@ -26,12 +26,17 @@
 - CoRL 2022, VideoDex: Learning Dexterity from Internet Videos. [Website](https://video-dex.github.io/).
 - CVPR 2022, Coupling Vision and Proprioception for Navigation of Legged Robots. [Paper](https://arxiv.org/abs/2112.02094).
 - CoRL 2024, Continuously Improving Mobile Manipulation with Autonomous Real-World RL. [Paper](https://arxiv.org/abs/2409.20568). Mobile Manipulation.
+## related: Robotics & Open Knowledge Models
+- RSS 2024, OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics. [Website](https://arxiv.org/pdf/2401.12202).
 ## related: World Models
 - Leo Fan's List. [Website](https://github.com/leofan90/Awesome-World-Models).
 - arxiv 2024, 05, Hierarchical World Models as Visual Whole-Body Humanoid Controllers. [Website](https://www.nicklashansen.com/rlpuppeteer/).
-- arxiv 2024, 07, Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion. [Website](https://boyuan.space/diffusion-forcing/).
+- ICML 2024, 3D-VLA: A 3DVision-Language-Action Generative World Model. [Paper](https://arxiv.org/pdf/2403.09631).
+- arxiv 2024, 11, DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning. [Website](https://dino-wm.github.io/). [Paper](
 ## related: Generative models for Decision-Making
 - arxiv 2025, 01, Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. [Paper](https://arxiv.org/abs/2501.09685).
-- ICML 2024, 3D-VLA: A 3DVision-Language-Action Generative World Model. [Paper](https://arxiv.org/pdf/2403.09631).
+- arxiv 2024, 07, Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion. [Website](https://boyuan.space/diffusion-forcing/).
 ## related: RL in the Real World
 - arxiv 2021, 02, NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning. [Paper](https://arxiv.org/abs/2102.00714). [Website](http://polixir.ai/research/neorl).
+## related: Robotic Learning
+- NeurIPS 2024, DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control. [Website](https://arxiv.org/pdf/2409.12192).
