@@ -9,7 +9,7 @@
 - 1xgpt [Website](https://github.com/1x-technologies/1xgpt).
 - OXE [Paper](https://arxiv.org/abs/2310.08864).
 ## models
-- Cosmos [Website](https://developer.nvidia.com/cosmos). Autoregressive Video2World/Text2World foundation models.
+- Cosmos [Website](https://developer.nvidia.com/cosmos). [Paper](https://arxiv.org/abs/2501.03575). Autoregressive Video2World/Text2World foundation models.
 ## toolbox
 - Menagerie [Website](https://github.com/google-deepmind/mujoco_menagerie) MuJoCo physics engines. System identification toolbox has not been released.(up to 2025.1)
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
