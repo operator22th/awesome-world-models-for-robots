@@ -21,6 +21,8 @@
 - arxiv 2025, 02, Strengthening Generative Robot Policies through Predictive World Modeling. [Paper](https://arxiv.org/pdf/2502.00622).
 ## workshop
 - ICML 2024, Multi-modal Foundation Model meets Embodied AI [Website](https://icml-mfm-eai.github.io/).
+- ICLR 2025, Generative Models for Robot Learning. [Website](https://genbot-workshop.github.io/).
+- ICLR 2025, World Models. [Website](https://sites.google.com/view/worldmodel-iclr2025/).
 ## related: Robotics & vision-based RL
 - CoRL 2022 (Oral), Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. [Paper](https://arxiv.org/abs/2210.10044).
 - CoRL 2022 (Oral), Legged Locomotion in Challenging Terrains using Egocentric Vision. [Paper](https://arxiv.org/pdf/2211.07638).
