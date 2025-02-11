@@ -17,6 +17,7 @@
 - CoRL 2024, Multi-Task Interactive Robot Fleet Learning with Visual World Models. [Paper](https://arxiv.org/pdf/2410.22689). Visual world model for anomaly detection.
 - CVPR 2023, Affordances from Human Videos as a Versatile Representation for Robotics. [Paper](https://arxiv.org/abs/2304.08488). Prediction contact points and trajectory waypoints, then use it for downstream tasks (suitable for different learning paradigms).
 - RSS 2023, Structured World Models from Human Videos. [Paper](https://arxiv.org/abs/2308.10901). Robot arm manipulation tasks. World Models with structured action space design.
+- RSS 2024, HRP: Human Affordances for Robotic Pre-Training. [Paper](https://arxiv.org/abs/2407.18911).
 - arxiv 2025, 02, Strengthening Generative Robot Policies through Predictive World Modeling. [Paper](https://arxiv.org/pdf/2502.00622). Stengthen imitation learning with world model.
 - arxiv 2024, 11, DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning. [Website](https://dino-wm.github.io/). World model for MPC. DINOv2 for representation.
 - Daydreamer: World models for physical robot learning
