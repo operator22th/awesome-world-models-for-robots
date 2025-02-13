@@ -1,5 +1,5 @@
 # awesome-world-models-for-robots
-## basics
+## overview
 - [World Models](https://www.nvidia.com/en-us/glossary/world-models/)
 - arxiv 2024, 11, Understanding World or Predicting Future? A Comprehensive Survey of World Models [Paper](https://arxiv.org/pdf/2411.14499).
 ## benchmark
