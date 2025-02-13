@@ -24,7 +24,8 @@
 - CoRL 2022, Daydreamer: World models for physical robot learning. [Paper](https://arxiv.org/abs/2206.14176).
 - CoRL 2023 (Oral), Finetuning Offline World Models in the Real World [Website](https://www.yunhaifeng.com/FOWM/) [Paper](https://arxiv.org/abs/2310.16029) Offline pretraining and online finetuning of world models. Robot arm manipulation tasks.
 - arxiv 2025, 01, Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [Paper](https://arxiv.org/abs/2501.10100v1). MBPO sim2real using world models. Quadruped locomotion tasks.
-- ICLR 2024 (Outstanding Paper) UniSim: Learning Interactive Real-World Simulators [Website](https://universal-simulator.github.io/unisim/).
+- ICLR 2024 (Outstanding Paper), UniSim: Learning Interactive Real-World Simulators [Website](https://universal-simulator.github.io/unisim/).
+- ICLR 2024, Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation [Website](https://gr1-manipulation.github.io/).
 ## workshop
 - ICML 2024, Multi-modal Foundation Model meets Embodied AI [Website](https://icml-mfm-eai.github.io/).
 - ICLR 2025, Generative Models for Robot Learning. [Website](https://genbot-workshop.github.io/).
