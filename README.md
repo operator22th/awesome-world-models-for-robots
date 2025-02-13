@@ -63,8 +63,10 @@
 - IROS 2023, Visual Reinforcement Learning with Self-Supervised 3D Representations. [Paper](https://arxiv.org/abs/2210.07241).
 ## related: Generative models for Decision-Making
 - arxiv 2025, 01, Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. [Paper](https://arxiv.org/abs/2501.09685).
+- arxiv 2024, 05, Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models. [Paper](https://arxiv.org/abs/2405.19673).
 - arxiv 2024, 07, Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion. [Website](https://boyuan.space/diffusion-forcing/).
 - ICML 2022, Learning Iterative Reasoning through Energy Minimization. [Paper](https://arxiv.org/abs/2206.15448).
 - ICRA 2023, NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration. [Paper](https://arxiv.org/abs/2310.07896).
+- ICML 2024, Video as the New Language for Real-World Decision Making. [Paper](https://arxiv.org/abs/2402.17139).
 ## related: RL in the Real World
 - arxiv 2021, 02, NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning. [Paper](https://arxiv.org/abs/2102.00714). [Website](http://polixir.ai/research/neorl)
