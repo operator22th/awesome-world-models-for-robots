@@ -1,6 +1,7 @@
 # awesome-world-models-for-robots
 ## basics
 - [World Models](https://www.nvidia.com/en-us/glossary/world-models/)
+- arxiv 2024, 11, Understanding World or Predicting Future? A Comprehensive Survey of World Models [Paper](https://arxiv.org/pdf/2411.14499).
 ## benchmark
 - arXiv 2024, 03, HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [Paper](https://arxiv.org/abs/2403.10506) [Website](https://sferrazza.cc/humanoidbench_site/). $15$ whole-body manipulation and $12$ locomotion tasks. This repo contains the code for environments and training.
 ## dataset
