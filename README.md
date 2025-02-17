@@ -47,6 +47,7 @@
 - ICLR 2024, Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models. [Paper](https://arxiv.org/abs/2310.10639).
 - ICRA 2025, WildLMA: Long Horizon Loco-MAnipulation in the Wild. [Website](https://wildlma.github.io/).
 - arxiv, 2024, 12, NaVILA: Legged Robot Vision-Language-Action Model for Navigation. [Website](https://navila-bot.github.io/).
+- arxiv, 2024, 10, GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs. [Paper](https://arxiv.org/pdf/2410.03645).
 ## related: Robotics & Vision-based RL
 - CoRL 2022 (Oral), Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. [Paper](https://arxiv.org/abs/2210.10044).
 - CoRL 2022 (Oral), Legged Locomotion in Challenging Terrains using Egocentric Vision. [Paper](https://arxiv.org/pdf/2211.07638).
@@ -71,5 +72,7 @@
 - ICML 2022, Learning Iterative Reasoning through Energy Minimization. [Paper](https://arxiv.org/abs/2206.15448).
 - ICRA 2023, NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration. [Paper](https://arxiv.org/abs/2310.07896).
 - ICML 2024, Video as the New Language for Real-World Decision Making. [Paper](https://arxiv.org/abs/2402.17139).
+## related: Generative simulation
+- arxiv 2024, 06, RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [Paper](https://arxiv.org/abs/2406.02523).
 ## related: RL in the Real World
 - arxiv 2021, 02, NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning. [Paper](https://arxiv.org/abs/2102.00714). [Website](http://polixir.ai/research/neorl)
