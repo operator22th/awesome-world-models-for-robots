@@ -39,8 +39,14 @@
 - ICML 2024 (Oral), Genie: Generative Interactive Environments. [Paper](https://arxiv.org/abs/2402.15391).
 - ICML 2024 (Oral), Learning to Model the World with Language. [Paper](https://arxiv.org/abs/2308.01399). [Website](https://dynalang.github.io/).
 - 2024, 12, Genie2 [Blog](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/).
+## related: LLM as WM
+- ICLR 2025, Monte Carlo Planning with Large Language Model for Text-Based Games. [Paper](https://openreview.net/forum?id=r1KcapkzCt).
+- arxiv 2024, AgentGym: Evolving Large Language Model-based Agents across Diverse Environments. [Paper](https://arxiv.org/abs/2406.04151). [Code](https://github.com/WooooDyy/AgentGym).
+- NIPS 2023, Language Models Meet World Models: Embodied Experiences Enhance Language Models. [Paper](https://arxiv.org/abs/2305.10626). [Openreview](https://openreview.net/forum?id=SVBR6xBaMl).
+- NIPS 2023, Large Language Models as Commonsense Knowledge for Large-Scale Task Planning. [Website](https://llm-mcts.github.io/). [Paper](https://arxiv.org/abs/2305.14078).
+- NIPS 2023, ChessGPT: Bridging Policy Learning and Language Modeling. [Paper](https://arxiv.org/abs/2306.09200). [Code](https://github.com/waterhorse1/ChessGPT).
 ## related: Transfer Learning
-- aexiv 2022, 01, Transferability in Deep Learning: A Survey. [Paper](https://arxiv.org/abs/2201.05867).
+- arxiv 2022, 01, Transferability in Deep Learning: A Survey. [Paper](https://arxiv.org/abs/2201.05867).
 ## related: Robotics & Foundation models
 - RSS 2024, OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics. [Paper](https://arxiv.org/pdf/2401.12202).
 - CoRL 2023 (Oral), VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models. [Website](https://voxposer.github.io/).
