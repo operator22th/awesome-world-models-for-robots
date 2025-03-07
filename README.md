@@ -15,6 +15,7 @@
 - Menagerie [Website](https://github.com/google-deepmind/mujoco_menagerie) MuJoCo physics engines. System identification toolbox has not been released.(up to 2025.1)
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
 ## papers
+- arxiv 2025, 03, Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning. [Paper](https://arxiv.org/abs/2503.01837). [Website](https://adrialopezescoriza.github.io/demo3/).
 - ICRA 2024, MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation. [Paper](https://arxiv.org/pdf/2309.14236).
 - CoRL 2024, Multi-Task Interactive Robot Fleet Learning with Visual World Models. [Paper](https://arxiv.org/pdf/2410.22689). Visual world model for anomaly detection.
 - CVPR 2023, Affordances from Human Videos as a Versatile Representation for Robotics. [Paper](https://arxiv.org/abs/2304.08488). Prediction contact points and trajectory waypoints, then use it for downstream tasks (suitable for different learning paradigms).
