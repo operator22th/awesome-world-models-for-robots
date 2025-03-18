@@ -34,6 +34,7 @@
 - ICLR 2025, World Models. [Website](https://sites.google.com/view/worldmodel-iclr2025/).
 ## related: World Models
 - Leo Fan's List. [Website](https://github.com/leofan90/Awesome-World-Models).
+- arxiv 2025, 03, Denoising Hamiltonian Network for Physical Reasoning. [Paper](https://arxiv.org/abs/2503.07596).
 - arxiv 2024, 05, Hierarchical World Models as Visual Whole-Body Humanoid Controllers. [Website](https://www.nicklashansen.com/rlpuppeteer/).
 - ICML 2024, Offline Transition Modeling via Contrastive Energy Learning. [Code](https://github.com/Ruifeng-Chen/Energy-Transition-Models).
 - ICML 2024, 3D-VLA: A 3DVision-Language-Action Generative World Model. [Paper](https://arxiv.org/pdf/2403.09631).
