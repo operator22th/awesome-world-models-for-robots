@@ -50,6 +50,7 @@
 ## related: Transfer Learning
 - arxiv 2022, 01, Transferability in Deep Learning: A Survey. [Paper](https://arxiv.org/abs/2201.05867).
 ## related: Robotics & Foundation models
+- 2025, 03,  GR00T N1: An Open Foundation Model for Generalist Humanoid Robots. [Code](https://github.com/NVIDIA/Isaac-GR00T).
 - RSS 2024, OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics. [Paper](https://arxiv.org/pdf/2401.12202).
 - CoRL 2023 (Oral), VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models. [Website](https://voxposer.github.io/).
 - ICLR 2024, Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models. [Paper](https://arxiv.org/abs/2310.10639).
