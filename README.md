@@ -41,6 +41,7 @@
 - ICML 2024 (Oral), Genie: Generative Interactive Environments. [Paper](https://arxiv.org/abs/2402.15391).
 - ICML 2024 (Oral), Learning to Model the World with Language. [Paper](https://arxiv.org/abs/2308.01399). [Website](https://dynalang.github.io/).
 - 2024, 12, Genie2 [Blog](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/).
+- arxiv 2025, 03, PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop. [Webstite](https://vision-x-nyu.github.io/pisa-experiments.github.io/).
 ## related: LLM as WM
 - ICLR 2025, Monte Carlo Planning with Large Language Model for Text-Based Games. [Paper](https://openreview.net/forum?id=r1KcapkzCt).
 - arxiv 2024, AgentGym: Evolving Large Language Model-based Agents across Diverse Environments. [Paper](https://arxiv.org/abs/2406.04151). [Code](https://github.com/WooooDyy/AgentGym).
