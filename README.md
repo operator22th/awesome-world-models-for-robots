@@ -5,6 +5,7 @@
 ## benchmark
 - arXiv 2024, 03, HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [Paper](https://arxiv.org/abs/2403.10506) [Website](https://sferrazza.cc/humanoidbench_site/). $15$ whole-body manipulation and $12$ locomotion tasks. This repo contains the code for environments and training.
 ## dataset
+- Pysical AI [Website](https://huggingface.co/collections/nvidia/physical-ai-67c643edbb024053dcbcd6d8).
 - AgiBot World [Website](https://github.com/OpenDriveLab/AgiBot-World). 1 million+ trajectories from 100 robots.
 - LeRobotDataset [Website](https://github.com/huggingface/lerobot). A bunch of models, datasets, and tools for real-world robotics in PyTorch.
 - 1xgpt [Website](https://github.com/1x-technologies/1xgpt).
