@@ -20,6 +20,7 @@
 - ICML 2025, Trajectory World Models for Heterogeneous Environments. [Paper](https://arxiv.org/abs/2502.01366).
 - Neulps 2024, iVideoGPT: Interactive VideoGPTs are Scalable World Models. [Website](https://thuml.github.io/iVideoGPT/). [Code](https://github.com/thuml/iVideoGPT).
 - RSS 2025, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [Website](https://weirdlabuw.github.io/uwm/).
+- RSS 2025, Unified Video Action Model. [Website](https://unified-video-action-model.github.io/).
 - ICRA 2025, World Model-based Perception for Visual Legged Locomotion. [Website](https://wmp-loco.github.io/). [Code](https://github.com/bytedance/WMP).
 - arxiv 2025, 03, Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning. [Paper](https://arxiv.org/abs/2503.01837). [Website](https://adrialopezescoriza.github.io/demo3/).
 - ICRA 2024, MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation. [Paper](https://arxiv.org/pdf/2309.14236).
