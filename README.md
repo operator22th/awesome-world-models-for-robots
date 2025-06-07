@@ -16,6 +16,7 @@
 - Menagerie [Website](https://github.com/google-deepmind/mujoco_menagerie) MuJoCo physics engines. System identification toolbox has not been released.(up to 2025.1)
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
 ## papers
+- arxiv 2025, 05, Evaluating Robot Policies in a World Model. [Paper](https://arxiv.org/abs/2506.00613).
 - arxiv 2025, 05, RLVR-World: Training World Models with Reinforcement Learning. [Paper](https://arxiv.org/abs/2505.13934).
 - ICML 2025, Trajectory World Models for Heterogeneous Environments. [Paper](https://arxiv.org/abs/2502.01366).
 - Neulps 2024, iVideoGPT: Interactive VideoGPTs are Scalable World Models. [Website](https://thuml.github.io/iVideoGPT/). [Code](https://github.com/thuml/iVideoGPT).
@@ -39,6 +40,7 @@
 - ICML 2024, Multi-modal Foundation Model meets Embodied AI [Website](https://icml-mfm-eai.github.io/).
 - ICLR 2025, Generative Models for Robot Learning. [Website](https://genbot-workshop.github.io/).
 - ICLR 2025, World Models. [Website](https://sites.google.com/view/worldmodel-iclr2025/).
+- ICML 2025, Building Physically Plausible World Models. [Website](https://physical-world-modeling.github.io/).
 ## related: World Models
 - Leo Fan's List. [Website](https://github.com/leofan90/Awesome-World-Models).
 - arxiv 2025, 03, Denoising Hamiltonian Network for Physical Reasoning. [Paper](https://arxiv.org/abs/2503.07596).
