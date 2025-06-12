@@ -11,7 +11,7 @@
 - 1xgpt [Website](https://github.com/1x-technologies/1xgpt).
 - OXE [Paper](https://arxiv.org/abs/2310.08864).
 ## models
-- V-JEPA [Website](https://ai.meta.com/vjepa/). [Paper](https://arxiv.org/abs/2506.09985) [Code](https://github.com/facebookresearch/vjepa2).
+- V-JEPA2 [Website](https://ai.meta.com/vjepa/). [Paper](https://arxiv.org/abs/2506.09985) [Code](https://github.com/facebookresearch/vjepa2).
 - Cosmos [Website](https://developer.nvidia.com/cosmos). [Paper](https://arxiv.org/abs/2501.03575). Autoregressive Video2World/Text2World foundation models.
 ## toolbox
 - Menagerie [Website](https://github.com/google-deepmind/mujoco_menagerie) MuJoCo physics engines. System identification toolbox has not been released.(up to 2025.1)
