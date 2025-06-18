@@ -17,6 +17,7 @@
 - Menagerie [Website](https://github.com/google-deepmind/mujoco_menagerie) MuJoCo physics engines. System identification toolbox has not been released.(up to 2025.1)
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
 ## papers
+- 1x-world-model. [Paper](https://www.1x.tech/1x-world-model.pdf).
 - arxiv 2025, 05, Evaluating Robot Policies in a World Model. [Paper](https://arxiv.org/abs/2506.00613).
 - arxiv 2025, 05, RLVR-World: Training World Models with Reinforcement Learning. [Paper](https://arxiv.org/abs/2505.13934).
 - ICML 2025, Trajectory World Models for Heterogeneous Environments. [Paper](https://arxiv.org/abs/2502.01366).
