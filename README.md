@@ -17,27 +17,29 @@
 - Menagerie [Website](https://github.com/google-deepmind/mujoco_menagerie) MuJoCo physics engines. System identification toolbox has not been released.(up to 2025.1)
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
 ## papers
+- RSS 2025 Best Systems Paper finalist, Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation. [Website](https://leggedrobotics.github.io/fdm.github.io/). [Paper](https://arxiv.org/abs/2504.19322).
 - 1x-world-model. [Paper](https://www.1x.tech/1x-world-model.pdf).
 - arxiv 2025, 05, Evaluating Robot Policies in a World Model. [Paper](https://arxiv.org/abs/2506.00613).
 - arxiv 2025, 05, RLVR-World: Training World Models with Reinforcement Learning. [Paper](https://arxiv.org/abs/2505.13934).
-- ICML 2025, Trajectory World Models for Heterogeneous Environments. [Paper](https://arxiv.org/abs/2502.01366).
-- Neulps 2024, iVideoGPT: Interactive VideoGPTs are Scalable World Models. [Website](https://thuml.github.io/iVideoGPT/). [Code](https://github.com/thuml/iVideoGPT).
+- arxiv 2025, 02, Strengthening Generative Robot Policies through Predictive World Modeling. [Paper](https://arxiv.org/pdf/2502.00622). Stengthen imitation learning with world model.
 - RSS 2025, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [Website](https://weirdlabuw.github.io/uwm/).
 - RSS 2025, Unified Video Action Model. [Website](https://unified-video-action-model.github.io/).
 - ICRA 2025, World Model-based Perception for Visual Legged Locomotion. [Website](https://wmp-loco.github.io/). [Code](https://github.com/bytedance/WMP).
 - arxiv 2025, 03, Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning. [Paper](https://arxiv.org/abs/2503.01837). [Website](https://adrialopezescoriza.github.io/demo3/).
+- arxiv 2025, 01, Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [Paper](https://arxiv.org/abs/2501.10100v1). MBPO sim2real using world models. Quadruped locomotion tasks.
+- ICML 2025, Trajectory World Models for Heterogeneous Environments. [Paper](https://arxiv.org/abs/2502.01366).
+- CVPR 2025 (Oral), Navigation World Models. [Website](https://www.amirbar.net/nwm/). [Paper](https://arxiv.org/abs/2412.03572).
 - ICRA 2024, MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation. [Paper](https://arxiv.org/pdf/2309.14236).
 - CoRL 2024, Multi-Task Interactive Robot Fleet Learning with Visual World Models. [Paper](https://arxiv.org/pdf/2410.22689). Visual world model for anomaly detection.
-- CVPR 2023, Affordances from Human Videos as a Versatile Representation for Robotics. [Paper](https://arxiv.org/abs/2304.08488). Prediction contact points and trajectory waypoints, then use it for downstream tasks (suitable for different learning paradigms).
-- RSS 2023, Structured World Models from Human Videos. [Paper](https://arxiv.org/abs/2308.10901). Robot arm manipulation tasks. World Models with structured action space design.
+- Neulps 2024, iVideoGPT: Interactive VideoGPTs are Scalable World Models. [Website](https://thuml.github.io/iVideoGPT/). [Code](https://github.com/thuml/iVideoGPT).
 - RSS 2024, HRP: Human Affordances for Robotic Pre-Training. [Paper](https://arxiv.org/abs/2407.18911).
-- arxiv 2025, 02, Strengthening Generative Robot Policies through Predictive World Modeling. [Paper](https://arxiv.org/pdf/2502.00622). Stengthen imitation learning with world model.
-- arxiv 2024, 11, DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning. [Website](https://dino-wm.github.io/). World model for MPC. DINOv2 for representation.
-- CoRL 2022, Daydreamer: World models for physical robot learning. [Paper](https://arxiv.org/abs/2206.14176).
-- CoRL 2023 (Oral), Finetuning Offline World Models in the Real World [Website](https://www.yunhaifeng.com/FOWM/) [Paper](https://arxiv.org/abs/2310.16029) Offline pretraining and online finetuning of world models. Robot arm manipulation tasks.
-- arxiv 2025, 01, Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [Paper](https://arxiv.org/abs/2501.10100v1). MBPO sim2real using world models. Quadruped locomotion tasks.
 - ICLR 2024 (Outstanding Paper), UniSim: Learning Interactive Real-World Simulators [Website](https://universal-simulator.github.io/unisim/).
 - ICLR 2024, Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation [Website](https://gr1-manipulation.github.io/).
+- arxiv 2024, 11, DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning. [Website](https://dino-wm.github.io/). World model for MPC. DINOv2 for representation.
+- CVPR 2023, Affordances from Human Videos as a Versatile Representation for Robotics. [Paper](https://arxiv.org/abs/2304.08488). Prediction contact points and trajectory waypoints, then use it for downstream tasks (suitable for different learning paradigms).
+- RSS 2023, Structured World Models from Human Videos. [Paper](https://arxiv.org/abs/2308.10901). Robot arm manipulation tasks. World Models with structured action space design.
+- CoRL 2023 (Oral), Finetuning Offline World Models in the Real World [Website](https://www.yunhaifeng.com/FOWM/) [Paper](https://arxiv.org/abs/2310.16029) Offline pretraining and online finetuning of world models. Robot arm manipulation tasks.
+- CoRL 2022, Daydreamer: World models for physical robot learning. [Paper](https://arxiv.org/abs/2206.14176).
 ## workshop
 - ICML 2024, Multi-modal Foundation Model meets Embodied AI [Website](https://icml-mfm-eai.github.io/).
 - ICLR 2025, Generative Models for Robot Learning. [Website](https://genbot-workshop.github.io/).
