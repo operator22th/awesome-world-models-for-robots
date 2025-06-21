@@ -18,6 +18,7 @@
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
 ## papers
 - RSS 2025 Best Systems Paper finalist, Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation. [Website](https://leggedrobotics.github.io/fdm.github.io/). [Paper](https://arxiv.org/abs/2504.19322).
+- RSS 2025, Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos. [Website](https://kywind.github.io/pgnd). [Paper](https://arxiv.org/abs/2506.15680).
 - 1x-world-model. [Paper](https://www.1x.tech/1x-world-model.pdf).
 - arxiv 2025, 05, Evaluating Robot Policies in a World Model. [Paper](https://arxiv.org/abs/2506.00613).
 - arxiv 2025, 05, RLVR-World: Training World Models with Reinforcement Learning. [Paper](https://arxiv.org/abs/2505.13934).
