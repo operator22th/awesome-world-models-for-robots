@@ -22,6 +22,7 @@
 - 1x-world-model. [Paper](https://www.1x.tech/1x-world-model.pdf).
 - arxiv 2025, 05, Evaluating Robot Policies in a World Model. [Paper](https://arxiv.org/abs/2506.00613).
 - arxiv 2025, 05, RLVR-World: Training World Models with Reinforcement Learning. [Paper](https://arxiv.org/abs/2505.13934).
+- arxiv 2025, 04, TesserAct: Learning 4D Embodied World Models. [Website](https://tesseractworld.github.io/).
 - arxiv 2025, 02, Strengthening Generative Robot Policies through Predictive World Modeling. [Paper](https://arxiv.org/pdf/2502.00622). Stengthen imitation learning with world model.
 - RSS 2025, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [Website](https://weirdlabuw.github.io/uwm/).
 - RSS 2025, Unified Video Action Model. [Website](https://unified-video-action-model.github.io/).
