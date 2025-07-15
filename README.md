@@ -42,7 +42,8 @@
 - CoRL 2023 (Oral), Finetuning Offline World Models in the Real World [Website](https://www.yunhaifeng.com/FOWM/) [Paper](https://arxiv.org/abs/2310.16029) Offline pretraining and online finetuning of world models. Robot arm manipulation tasks.
 - CoRL 2022, Daydreamer: World models for physical robot learning. [Paper](https://arxiv.org/abs/2206.14176).
 ## workshop
-- CoRL 2025, Robotics World Modeling [Websute](https://robot-world-modeling.github.io/).
+- Neurlps 2025, Embodied World Models for Decision Making [Website](https://embodied-world-models.github.io/).
+- CoRL 2025, Robotics World Modeling [Website](https://robot-world-modeling.github.io/).
 - ICCV 2025, Reliable and Interactive World Model [Website](https://riwm-2025.github.io/RIWM-2025/).
 - RSS 2025, Structured World Models for Robotic Manipulation [Website](https://swomo-rss.github.io/).
 - ICML 2024, Multi-modal Foundation Model meets Embodied AI [Website](https://icml-mfm-eai.github.io/).
