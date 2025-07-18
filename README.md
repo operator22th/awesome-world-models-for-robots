@@ -30,6 +30,7 @@
 - arxiv 2025, 03, Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning. [Paper](https://arxiv.org/abs/2503.01837). [Website](https://adrialopezescoriza.github.io/demo3/).
 - arxiv 2025, 01, Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [Paper](https://arxiv.org/abs/2501.10100v1). MBPO sim2real using world models. Quadruped locomotion tasks.
 - ICML 2025, Trajectory World Models for Heterogeneous Environments. [Paper](https://arxiv.org/abs/2502.01366).
+- ICLR 2025 (Spotlight), DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes. [Website](https://dynamic-city.github.io/).
 - CVPR 2025 (Oral), Navigation World Models. [Website](https://www.amirbar.net/nwm/). [Paper](https://arxiv.org/abs/2412.03572).
 - ICRA 2024, MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation. [Paper](https://arxiv.org/pdf/2309.14236).
 - CoRL 2024, Multi-Task Interactive Robot Fleet Learning with Visual World Models. [Paper](https://arxiv.org/pdf/2410.22689). Visual world model for anomaly detection.
@@ -53,6 +54,8 @@
 - ICML 2025, Building Physically Plausible World Models. [Website](https://physical-world-modeling.github.io/).
 ## related: World Models
 - Leo Fan's List. [Website](https://github.com/leofan90/Awesome-World-Models).
+- ICML 2025 (Oral), Temporal Difference Flows. [Paper](https://arxiv.org/abs/2503.09817).
+- ICML 2025 (Spotlight), Novelty Detection in Reinforcement Learning with World Models. [Paper](https://arxiv.org/abs/2310.08731v4).
 - arxiv 2025, 03, Denoising Hamiltonian Network for Physical Reasoning. [Paper](https://arxiv.org/abs/2503.07596).
 - arxiv 2024, 05, Hierarchical World Models as Visual Whole-Body Humanoid Controllers. [Website](https://www.nicklashansen.com/rlpuppeteer/).
 - ICML 2024, Offline Transition Modeling via Contrastive Energy Learning. [Code](https://github.com/Ruifeng-Chen/Energy-Transition-Models).
@@ -94,7 +97,7 @@
 - ICML 2022, On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline. [Paper](https://arxiv.org/abs/2212.05749).
 - IROS 2023, Visual Reinforcement Learning with Self-Supervised 3D Representations. [Paper](https://arxiv.org/abs/2210.07241).
 ## related: Generative models for Decision-Making
-- arxiv 2025, 02, History-Guided Video Diffusion. [Website](https://boyuan.space/history-guidance/). [Paper](https://arxiv.org/abs/2502.06764).
+- ICML 2025, History-Guided Video Diffusion. [Website](https://boyuan.space/history-guidance/). [Paper](https://arxiv.org/abs/2502.06764).
 - arxiv 2025, 01, Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. [Paper](https://arxiv.org/abs/2501.09685).
 - arxiv 2024, 05, Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models. [Paper](https://arxiv.org/abs/2405.19673).
 - NIPS 2024, Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion. [Website](https://boyuan.space/diffusion-forcing/).
