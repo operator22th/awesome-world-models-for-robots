@@ -29,6 +29,7 @@
 - RSS 2025, Unified Video Action Model. [Website](https://unified-video-action-model.github.io/).
 - ICRA 2025, World Model-based Perception for Visual Legged Locomotion. [Website](https://wmp-loco.github.io/). [Code](https://github.com/bytedance/WMP).
 - arxiv 2025, 03, Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning. [Paper](https://arxiv.org/abs/2503.01837). [Website](https://adrialopezescoriza.github.io/demo3/).
+- arxiv 2025, 01, RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation [Papaer](https://arxiv.org/abs/2501.06605).
 - arxiv 2025, 01, Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [Paper](https://arxiv.org/abs/2501.10100v1). MBPO sim2real using world models. Quadruped locomotion tasks.
 - ICML 2025, Trajectory World Models for Heterogeneous Environments. [Paper](https://arxiv.org/abs/2502.01366).
 - ICLR 2025 (Spotlight), DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes. [Website](https://dynamic-city.github.io/).
