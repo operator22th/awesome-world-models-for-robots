@@ -17,6 +17,7 @@
 - Menagerie [Website](https://github.com/google-deepmind/mujoco_menagerie) MuJoCo physics engines. System identification toolbox has not been released.(up to 2025.1)
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
 ## papers
+- arxiv 2025, 10, Ego-Vision World Model for Humanoid Contact Planning. [Website](https://ego-vcp.github.io/).
 - unitree world model, UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family. [Website](https://unigen-x.github.io/unifolm-world-model-action.github.io/).
 - arxiv 2025, 08, Genie Envisioner: A Unified World Foundation Model for Robotic Manipulation. [Website](https://genie-envisioner.github.io/). [Paper](https://arxiv.org/abs/2508.05635).
 - RSS 2025 Best Systems Paper finalist, Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation. [Website](https://leggedrobotics.github.io/fdm.github.io/). [Paper](https://arxiv.org/abs/2504.19322).
