@@ -17,6 +17,7 @@
 - Menagerie [Website](https://github.com/google-deepmind/mujoco_menagerie) MuJoCo physics engines. System identification toolbox has not been released.(up to 2025.1)
 - MuJoCo Playground [Website](https://playground.mujoco.org/) [Paper](https://playground.mujoco.org/assets/playground_technical_report.pdf) Training environments in mjx. Humanoid Locomotion, Quadruped Locomotion and Manipulation (most robot arms and hand) tasks are included.
 ## papers
+- arxiv 2026, 02, Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures. [Paper](https://arxiv.org/abs/2602.09600). [Website](https://hand2world.github.io/).
 - arxiv 2026, 02, World Action Models are Zero-shot Policies. [Webiste](https://dreamzero0.github.io/). [Paper](https://arxiv.org/abs/2602.15922).
 - arxiv 2026, 01, PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation. [Website](https://point-world.github.io/). [Paper](https://arxiv.org/abs/2601.03782).
 - arxiv 2026, 01, Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning. [Paper](https://arxiv.org/abs/2601.16163). [Website](https://research.nvidia.com/labs/dir/cosmos-policy/).
